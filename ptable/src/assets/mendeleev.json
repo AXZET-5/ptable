@@ -1,0 +1,712 @@
+{
+    "Elements": {
+        "Hydrogen": {
+            "Symbol": "H",
+            "Name": "Hydrogen",
+            "PN": "1",
+            "AR": "1.0"
+        },
+        "Helium": {
+            "Symbol": "He",
+            "Name": "Helium",
+            "PN": "2",
+            "AR": "4.0"
+        },
+        "Lithium": {
+            "Symbol": "Li",
+            "Name": "Lithium",
+            "PN": "3",
+            "AR": "6.9"
+        },
+        "Beryllium": {
+            "Symbol": "Be",
+            "Name": "Beryllium",
+            "PN": "4",
+            "AR": "9.0"
+        },
+        "Boron": {
+            "Symbol": "B",
+            "Name": "Boron",
+            "PN": "5",
+            "AR": "10.8"
+        },
+        "Carbon": {
+            "Symbol": "C",
+            "Name": "Carbon",
+            "PN": "6",
+            "AR": "12.0"
+        },
+        "Nitrogen": {
+            "Symbol": "N",
+            "Name": "Nitrogen",
+            "PN": "7",
+            "AR": "14.0"
+        },
+        "Oxygen": {
+            "Symbol": "O",
+            "Name": "Oxygen",
+            "PN": "8",
+            "AR": "16.0"
+        },
+        "Fluorine": {
+            "Symbol": "F",
+            "Name": "Fluorine",
+            "PN": "9",
+            "AR": "19.0"
+        },
+        "Neon": {
+            "Symbol": "Ne",
+            "Name": "Neon",
+            "PN": "10",
+            "AR": "20.2"
+        },
+        "Sodium": {
+            "Symbol": "Na",
+            "Name": "Sodium",
+            "PN": "11",
+            "AR": "23.0"
+        },
+        "Magnesium": {
+            "Symbol": "Mg",
+            "Name": "Magnesium",
+            "PN": "12",
+            "AR": "24.3"
+        },
+        "Aluminum": {
+            "Symbol": "Al",
+            "Name": "Aluminum",
+            "PN": "13",
+            "AR": "27.0"
+        },
+        "Silicon": {
+            "Symbol": "Si",
+            "Name": "Silicon",
+            "PN": "14",
+            "AR": "28.1"
+        },
+        "Phosphorus": {
+            "Symbol": "P",
+            "Name": "Phosphorus",
+            "PN": "15",
+            "AR": "31.0"
+        },
+        "Sulfur": {
+            "Symbol": "S",
+            "Name": "Sulfur",
+            "PN": "16",
+            "AR": "32.1"
+        },
+        "Chlorine": {
+            "Symbol": "Cl",
+            "Name": "Chlorine",
+            "PN": "17",
+            "AR": "35.5"
+        },
+        "Argon": {
+            "Symbol": "Ar",
+            "Name": "Argon",
+            "PN": "18",
+            "AR": "39.9"
+        },
+        "Potassium": {
+            "Symbol": "K",
+            "Name": "Potassium",
+            "PN": "19",
+            "AR": "39.1"
+        },
+        "Calcium": {
+            "Symbol": "Ca",
+            "Name": "Calcium",
+            "PN": "20",
+            "AR": "40.1"
+        },
+        "Scandium": {
+            "Symbol": "Sc",
+            "Name": "Scandium",
+            "PN": "21",
+            "AR": "45.0"
+        },
+        "Titanium": {
+            "Symbol": "Ti",
+            "Name": "Titanium",
+            "PN": "22",
+            "AR": "47.9"
+        },
+        "Vanadium": {
+            "Symbol": "V",
+            "Name": "Vanadium",
+            "PN": "23",
+            "AR": "50.9"
+        },
+        "Chromium": {
+            "Symbol": "Cr",
+            "Name": "Chromium",
+            "PN": "24",
+            "AR": "52.0"
+        },
+        "Manganese": {
+            "Symbol": "Mn",
+            "Name": "Manganese",
+            "PN": "25",
+            "AR": "54.9"
+        },
+        "Iron": {
+            "Symbol": "Fe",
+            "Name": "Iron",
+            "PN": "26",
+            "AR": "55.8"
+        },
+        "Cobalt": {
+            "Symbol": "Co",
+            "Name": "Cobalt",
+            "PN": "27",
+            "AR": "58.9"
+        },
+        "Nickel": {
+            "Symbol": "Ni",
+            "Name": "Nickel",
+            "PN": "28",
+            "AR": "58.7"
+        },
+        "Copper": {
+            "Symbol": "Cu",
+            "Name": "Copper",
+            "PN": "29",
+            "AR": "63.5"
+        },
+        "Zinc": {
+            "Symbol": "Zn",
+            "Name": "Zinc",
+            "PN": "30",
+            "AR": "65.4"
+        },
+        "Gallium": {
+            "Symbol": "Ga",
+            "Name": "Gallium",
+            "PN": "31",
+            "AR": "69.7"
+        },
+        "Germanium": {
+            "Symbol": "Ge",
+            "Name": "Germanium",
+            "PN": "32",
+            "AR": "72.6"
+        },
+        "Arsenic": {
+            "Symbol": "As",
+            "Name": "Arsenic",
+            "PN": "33",
+            "AR": "74.9"
+        },
+        "Selenium": {
+            "Symbol": "Se",
+            "Name": "Selenium",
+            "PN": "34",
+            "AR": "79.0"
+        },
+        "Bromine": {
+            "Symbol": "Br",
+            "Name": "Bromine",
+            "PN": "35",
+            "AR": "79.9"
+        },
+        "Krypton": {
+            "Symbol": "Kr",
+            "Name": "Krypton",
+            "PN": "36",
+            "AR": "83.8"
+        },
+        "Rubidium": {
+            "Symbol": "Rb",
+            "Name": "Rubidium",
+            "PN": "37",
+            "AR": "85.5"
+        },
+        "Strontium": {
+            "Symbol": "Sr",
+            "Name": "Strontium",
+            "PN": "38",
+            "AR": "87.6"
+        },
+        "Yttrium": {
+            "Symbol": "Y",
+            "Name": "Yttrium",
+            "PN": "39",
+            "AR": "88.9"
+        },
+        "Zirconium": {
+            "Symbol": "Zr",
+            "Name": "Zirconium",
+            "PN": "40",
+            "AR": "91.2"
+        },
+        "Niobium": {
+            "Symbol": "Nb",
+            "Name": "Niobium",
+            "PN": "41",
+            "AR": "92.9"
+        },
+        "Molybdenum": {
+            "Symbol": "Mo",
+            "Name": "Molybdenum",
+            "PN": "42",
+            "AR": "95.9"
+        },
+        "Technetium": {
+            "Symbol": "Tc",
+            "Name": "Technetium",
+            "PN": "43",
+            "AR": "98.0"
+        },
+        "Ruthenium": {
+            "Symbol": "Ru",
+            "Name": "Ruthenium",
+            "PN": "44",
+            "AR": "101.1"
+        },
+        "Rhodium": {
+            "Symbol": "Rh",
+            "Name": "Rhodium",
+            "PN": "45",
+            "AR": "102.9"
+        },
+        "Palladium": {
+            "Symbol": "Pd",
+            "Name": "Palladium",
+            "PN": "46",
+            "AR": "106.4"
+        },
+        "Silver": {
+            "Symbol": "Ag",
+            "Name": "Silver",
+            "PN": "47",
+            "AR": "107.9"
+        },
+        "Cadmium": {
+            "Symbol": "Cd",
+            "Name": "Cadmium",
+            "PN": "48",
+            "AR": "112.4"
+        },
+        "Indium": {
+            "Symbol": "In",
+            "Name": "Indium",
+            "PN": "49",
+            "AR": "114.8"
+        },
+        "Tin": {
+            "Symbol": "Sn",
+            "Name": "Tin",
+            "PN": "50",
+            "AR": "118.7"
+        },
+        "Antimony": {
+            "Symbol": "Sb",
+            "Name": "Antimony",
+            "PN": "51",
+            "AR": "121.8"
+        },
+        "Tellurium": {
+            "Symbol": "Te",
+            "Name": "Tellurium",
+            "PN": "52",
+            "AR": "127.6"
+        },
+        "Iodine": {
+            "Symbol": "I",
+            "Name": "Iodine",
+            "PN": "53",
+            "AR": "126.9"
+        },
+        "Xenon": {
+            "Symbol": "Xe",
+            "Name": "Xenon",
+            "PN": "54",
+            "AR": "131.3"
+        },
+        "Cesium": {
+            "Symbol": "Cs",
+            "Name": "Cesium",
+            "PN": "55",
+            "AR": "132.9"
+        },
+        "Barium": {
+            "Symbol": "Ba",
+            "Name": "Barium",
+            "PN": "56",
+            "AR": "137.3"
+        },
+        "Hafnium": {
+            "Symbol": "Hf",
+            "Name": "Hafnium",
+            "PN": "72",
+            "AR": "178.5"
+        },
+        "Tantalum": {
+            "Symbol": "Ta",
+            "Name": "Tantalum",
+            "PN": "73",
+            "AR": "180.9"
+        },
+        "Tungsten": {
+            "Symbol": "W",
+            "Name": "Tungsten",
+            "PN": "74",
+            "AR": "183.8"
+        },
+        "Rhenium": {
+            "Symbol": "Re",
+            "Name": "Rhenium",
+            "PN": "75",
+            "AR": "186.2"
+        },
+        "Osmium": {
+            "Symbol": "Os",
+            "Name": "Osmium",
+            "PN": "76",
+            "AR": "190.2"
+        },
+        "Iridium": {
+            "Symbol": "Ir",
+            "Name": "Iridium",
+            "PN": "77",
+            "AR": "192.2"
+        },
+        "Platinum": {
+            "Symbol": "Pt",
+            "Name": "Platinum",
+            "PN": "78",
+            "AR": "195.1"
+        },
+        "Gold": {
+            "Symbol": "Au",
+            "Name": "Gold",
+            "PN": "79",
+            "AR": "197.0"
+        },
+        "Mercury": {
+            "Symbol": "Hg",
+            "Name": "Mercury",
+            "PN": "80",
+            "AR": "200.6"
+        },
+        "Thallium": {
+            "Symbol": "Tl",
+            "Name": "Thallium",
+            "PN": "81",
+            "AR": "204.4"
+        },
+        "Lead": {
+            "Symbol": "Pb",
+            "Name": "Lead",
+            "PN": "82",
+            "AR": "207.2"
+        },
+        "Bismuth": {
+            "Symbol": "Bi",
+            "Name": "Bismuth",
+            "PN": "83",
+            "AR": "209.0"
+        },
+        "Polonium": {
+            "Symbol": "Po",
+            "Name": "Polonium",
+            "PN": "84",
+            "AR": "209.0"
+        },
+        "Astatine": {
+            "Symbol": "At",
+            "Name": "Astatine",
+            "PN": "85",
+            "AR": "210.0"
+        },
+        "Radon": {
+            "Symbol": "Rn",
+            "Name": "Radon",
+            "PN": "86",
+            "AR": "222.0"
+        },
+        "Francium": {
+            "Symbol": "Fr",
+            "Name": "Francium",
+            "PN": "87",
+            "AR": "223.0"
+        },
+        "Radium": {
+            "Symbol": "Ra",
+            "Name": "Radium",
+            "PN": "88",
+            "AR": "226.0"
+        },
+        "Rutherfordium": {
+            "Symbol": "Rf",
+            "Name": "Rutherfordium",
+            "PN": "104",
+            "AR": "261.0"
+        },
+        "Dubnium": {
+            "Symbol": "Db",
+            "Name": "Dubnium",
+            "PN": "105",
+            "AR": "262.0"
+        },
+        "Seaborgium": {
+            "Symbol": "Sg",
+            "Name": "Seaborgium",
+            "PN": "106",
+            "AR": "266.0"
+        },
+        "Bohrium": {
+            "Symbol": "Bh",
+            "Name": "Bohrium",
+            "PN": "107",
+            "AR": "264.0"
+        },
+        "Hassium": {
+            "Symbol": "Hs",
+            "Name": "Hassium",
+            "PN": "108",
+            "AR": "277.0"
+        },
+        "Meitnerium": {
+            "Symbol": "Mt",
+            "Name": "Meitnerium",
+            "PN": "109",
+            "AR": "268.0"
+        },
+        "Darmstadtium": {
+            "Symbol": "Ds",
+            "Name": "Darmstadtium",
+            "PN": "110",
+            "AR": "281.0"
+        },
+        "Roentgenium": {
+            "Symbol": "Rg",
+            "Name": "Roentgenium",
+            "PN": "111",
+            "AR": "272.0"
+        },
+        "Copernicium": {
+            "Symbol": "Cn",
+            "Name": "Copernicium",
+            "PN": "112",
+            "AR": "285.0"
+        },
+        "Nihonium": {
+            "Symbol": "Nh",
+            "Name": "Nihonium",
+            "PN": "113",
+            "AR": "286.0"
+        },
+        "Flerovium": {
+            "Symbol": "Fl",
+            "Name": "Flerovium",
+            "PN": "114",
+            "AR": "289.0"
+        },
+        "Moscovium": {
+            "Symbol": "Mc",
+            "Name": "Moscovium",
+            "PN": "115",
+            "AR": "290.0"
+        },
+        "Livermorium": {
+            "Symbol": "Lv",
+            "Name": "Livermorium",
+            "PN": "116",
+            "AR": "293.0"
+        },
+        "Tennessine": {
+            "Symbol": "Ts",
+            "Name": "Tennessine",
+            "PN": "117",
+            "AR": "294.0"
+        },
+        "Oganesson": {
+            "Symbol": "Og",
+            "Name": "Oganesson",
+            "PN": "118",
+            "AR": "294.0"
+        },
+        "Lanthanum": {
+            "Symbol": "La",
+            "Name": "Lanthanum",
+            "PN": "57",
+            "AR": "138.9"
+        },
+        "Cerium": {
+            "Symbol": "Ce",
+            "Name": "Cerium",
+            "PN": "58",
+            "AR": "140.1"
+        },
+        "Praseodymium": {
+            "Symbol": "Pr",
+            "Name": "Praseodymium",
+            "PN": "59",
+            "AR": "140.9"
+        },
+        "Neodymium": {
+            "Symbol": "Nd",
+            "Name": "Neodymium",
+            "PN": "60",
+            "AR": "144.2"
+        },
+        "Promethium": {
+            "Symbol": "Pm",
+            "Name": "Promethium",
+            "PN": "61",
+            "AR": "145.0"
+        },
+        "Samarium": {
+            "Symbol": "Sm",
+            "Name": "Samarium",
+            "PN": "62",
+            "AR": "150.4"
+        },
+        "Europium": {
+            "Symbol": "Eu",
+            "Name": "Europium",
+            "PN": "63",
+            "AR": "152.0"
+        },
+        "Gadolinium": {
+            "Symbol": "Gd",
+            "Name": "Gadolinium",
+            "PN": "64",
+            "AR": "157.3"
+        },
+        "Terbium": {
+            "Symbol": "Tb",
+            "Name": "Terbium",
+            "PN": "65",
+            "AR": "158.9"
+        },
+        "Dysprosium": {
+            "Symbol": "Dy",
+            "Name": "Dysprosium",
+            "PN": "66",
+            "AR": "162.5"
+        },
+        "Holmium": {
+            "Symbol": "Ho",
+            "Name": "Holmium",
+            "PN": "67",
+            "AR": "164.9"
+        },
+        "Erbium": {
+            "Symbol": "Er",
+            "Name": "Erbium",
+            "PN": "68",
+            "AR": "167.3"
+        },
+        "Thulium": {
+            "Symbol": "Tm",
+            "Name": "Thulium",
+            "PN": "69",
+            "AR": "168.9"
+        },
+        "Ytterbium": {
+            "Symbol": "Yb",
+            "Name": "Ytterbium",
+            "PN": "70",
+            "AR": "173.0"
+        },
+        "Lutetium": {
+            "Symbol": "Lu",
+            "Name": "Lutetium",
+            "PN": "71",
+            "AR": "175.0"
+        },
+        "Actinium": {
+            "Symbol": "Ac",
+            "Name": "Actinium",
+            "PN": "89",
+            "AR": "227.0"
+        },
+        "Thorium": {
+            "Symbol": "Th",
+            "Name": "Thorium",
+            "PN": "90",
+            "AR": "232.0"
+        },
+        "Protactinium": {
+            "Symbol": "Pa",
+            "Name": "Protactinium",
+            "PN": "91",
+            "AR": "231.0"
+        },
+        "Uranium": {
+            "Symbol": "U",
+            "Name": "Uranium",
+            "PN": "92",
+            "AR": "238.0"
+        },
+        "Neptunium": {
+            "Symbol": "Np",
+            "Name": "Neptunium",
+            "PN": "93",
+            "AR": "237.0"
+        },
+        "Plutonium": {
+            "Symbol": "Pu",
+            "Name": "Plutonium",
+            "PN": "94",
+            "AR": "244.0"
+        },
+        "Americium": {
+            "Symbol": "Am",
+            "Name": "Americium",
+            "PN": "95",
+            "AR": "243.0"
+        },
+        "Curium": {
+            "Symbol": "Cm",
+            "Name": "Curium",
+            "PN": "96",
+            "AR": "247.0"
+        },
+        "Berkelium": {
+            "Symbol": "Bk",
+            "Name": "Berkelium",
+            "PN": "97",
+            "AR": "247.0"
+        },
+        "Californium": {
+            "Symbol": "Cf",
+            "Name": "Californium",
+            "PN": "98",
+            "AR": "251.0"
+        },
+        "Einsteinium": {
+            "Symbol": "Es",
+            "Name": "Einsteinium",
+            "PN": "99",
+            "AR": "252.0"
+        },
+        "Fermium": {
+            "Symbol": "Fm",
+            "Name": "Fermium",
+            "PN": "100",
+            "AR": "257.0"
+        },
+        "Mendelevium": {
+            "Symbol": "Md",
+            "Name": "Mendelevium",
+            "PN": "101",
+            "AR": "258.0"
+        },
+        "Nobelium": {
+            "Symbol": "No",
+            "Name": "Nobelium",
+            "PN": "102",
+            "AR": "259.0"
+        },
+        "Lawrencium": {
+            "Symbol": "Lr",
+            "Name": "Lawrencium",
+            "PN": "103",
+            "AR": "262.0"
+        }
+    }
+}
